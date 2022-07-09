@@ -1,2 +1,2 @@
-# rRcketseat ReactJs - Projeto 1
+# Rcketseat ReactJS - Projeto 1
 Trilha ReactJS - Projeto 1
