@@ -16,3 +16,6 @@ npm install
 npm run dev
 ```
 
+## Acessando a Aplicação
+Por padrão a porta configurada no docker é a 8080 (http://localhost:3000).
+
