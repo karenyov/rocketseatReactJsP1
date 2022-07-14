@@ -17,5 +17,9 @@ npm run dev
 ```
 
 ## Acessando a Aplicação
-Por padrão a porta configurada no docker é a 8080 (http://localhost:3000).
+Por padrão a porta configurada é a 8080 (http://localhost:5173).
+
+<p align="center">
+  <img src="https://github.com/karenyov/rocketseatReactJsP1/blob/main/app.gif" width="350">
+</p>
 
